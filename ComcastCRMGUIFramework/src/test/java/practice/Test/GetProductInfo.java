@@ -13,7 +13,7 @@ import org.testng.annotations.Test;
 
 import com.comcast.crm.generic.fileutility.ExcelUtility;
 
-public class GetProductInfo {
+public class GetProductInfo{
 @Test(dataProvider = "getData")
 public void getProductInfoTest(String brand, String productName) throws InterruptedException {
 	WebDriver driver=new ChromeDriver();
