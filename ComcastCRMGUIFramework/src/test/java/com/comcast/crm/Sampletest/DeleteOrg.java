@@ -29,7 +29,7 @@ import com.comcast.crm.objectRepositoryUtility.LoginPage;
 import com.comcast.crm.objectRepositoryUtility.OrganizationInfoPage;
 import com.comcast.crm.objectRepositoryUtility.OrganizationPage;
 
-public class DeleteOrgTest {
+public class DeleteOrg{
 
 	public static void main(String[] args) throws InterruptedException, FileNotFoundException, IOException {
 			//Random Number
